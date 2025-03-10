@@ -1,0 +1,4 @@
+groq
+numpy
+requests
+python-dotenv
